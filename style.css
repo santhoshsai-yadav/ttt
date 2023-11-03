@@ -1,0 +1,31 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins,sans-serif;
+    /* border: 2px solid red; */
+}
+.firstContainer{
+    background-color: #00c1c0;
+}
+.firstContainer img{
+height: 90px;
+width: 200px;
+margin-top: 300px;
+
+}
+.firstContainer h2{
+    font-weight: 200;
+}
+.formContainer h3{
+    font-size: 18px;
+}
+.secondContaineer i{
+    background-color: red;
+}
+.formContainer{
+    width: 300px;
+
+}
